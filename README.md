@@ -49,7 +49,7 @@ The analysis needs to:
 
 ### Success Criteria
 - 📊 20+ comprehensive analytics dashboards
-- 🎯  95%+ data accuracy across seasons
+- 🎯 95%+ data accuracy across seasons
 - ⚡ Fast interactive dashboard performance
 - 👥 Clear insights on player performance
 - 💡 Actionable recommendations for teams
@@ -224,6 +224,18 @@ Temporal attributes for time-series analysis.
 ---
 
 ## 📈 Dashboard & Visualizations
+
+### 📊 Dashboard Overview
+
+#### Dashboard Page 1
+![IPL Dashboard Page 1](Dashboard_Page_1.png)
+
+*Comprehensive IPL analytics dashboard showing key performance metrics, team statistics, and player performance overview*
+
+#### Dashboard Page 2
+![IPL Dashboard Page 2](Dashboard-Page_2.png)
+
+*Advanced analytics dashboard featuring detailed match insights, venue analysis, and winning factors identification*
 
 ### Dashboard Sections
 
@@ -486,12 +498,12 @@ Examine data files to understand:
 - Data relationships
 - Data quality
 
-### Step 3: Review Sample Analysis ✓
-Study existing analysis to see:
-- Calculation methods
-- Visualization examples
-- Analysis approaches
-- Best practices
+### Step 3: Review Dashboard Visualizations ✓
+Study the dashboard images to see:
+- Dashboard layout
+- Key metrics displayed
+- Chart types used
+- Information hierarchy
 
 ### Step 4: Create Your Analysis ✓
 1. Choose your tool (Excel, Power BI, Python)
@@ -513,12 +525,13 @@ Write up your analysis:
 
 | File | Purpose |
 |------|---------|
+| **Dashboard_Page_1.png** | Main dashboard visualization |
+| **Dashboard-Page_2.png** | Advanced analytics dashboard |
 | **Matches_Data.csv** | Match records and statistics |
 | **Teams_Data.csv** | Team information |
 | **Players_Data.csv** | Player statistics |
 | **Venues_Data.csv** | Venue information |
 | **Analysis_Report.xlsx** | Excel analysis workbook |
-| **Dashboard_Snapshot.png** | Dashboard visualization |
 | **Data_Dictionary.md** | Field definitions |
 
 ---
@@ -544,12 +557,13 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 
 - 📧 **Questions**: Open an issue in the repository
 - 💬 **Discussions**: Start a discussion for collaboration
-- 📖 **Documentation**: Check docs folder for guidance
+- 📖 **Documentation**: Check the repository for detailed guides
 
 ---
 
 **Project Status**: ✅ Active & Ready for Analysis
 **Data Quality**: 95%+ Complete
+**Dashboard Status**: ✅ Production Ready
 
 ---
 
